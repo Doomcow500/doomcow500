@@ -20,6 +20,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=doomcow500&color=brightgreen)
 ![Gmail Badge](https://img.shields.io/badge/-doomcow500-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:doomcow500@gmail.com)
 ![Website Badge](https://img.shields.io/badge/-doomcow500.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://doomcow500.github.io)
-<img width="250px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doomcow500&layout=compact&theme=white" alt="My Github Stats">
-<img width="250px" align="left" src="https://github-readme-stats.vercel.app/api?username=doomcow500&&show_icons=true&theme=white&count_private=true&include_all_commits=true" alt="My Github Stats">
+<br />
+<img width="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doomcow500&layout=compact&theme=white" alt="My Github Stats">
+<img width="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=doomcow500&&show_icons=true&theme=white&count_private=true&include_all_commits=true" alt="My Github Stats">
 </p>
