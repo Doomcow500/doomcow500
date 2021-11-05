@@ -18,6 +18,7 @@ My Languages and Tools:
 <br /><br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=doomcow500&color=brightgreen)
+![](https://hit.yhype.me/github/profile?user_id=74429751)
 ![Gmail Badge](https://img.shields.io/badge/-doomcow500-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:doomcow500@gmail.com)
 ![Website Badge](https://img.shields.io/badge/-doomcow500.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://doomcow500.github.io)
 <br />
