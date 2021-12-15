@@ -2,7 +2,9 @@
 
 ## <img width="26px" src="https://emoji.gg/assets/emoji/8702_mewtwo.png"> Hola!
 
-My Languages and Tools:
+i make websites...
+
+### My Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -21,8 +23,4 @@ My Languages and Tools:
 ![](https://hit.yhype.me/github/profile?user_id=74429751)
 ![Gmail Badge](https://img.shields.io/badge/-doomcow500-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:doomcow500@gmail.com)
 ![Website Badge](https://img.shields.io/badge/-doomcow500.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://doomcow500.github.io)
-<br />
-<img width="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doomcow500&layout=compact&theme=white" alt="My Github Stats">
-<br />
-<img width="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=doomcow500&&show_icons=true&theme=white&count_private=true&include_all_commits=true" alt="My Github Stats">
 </p>
