@@ -1,26 +1,17 @@
+<h2 align="center">Hey stranger! 👋</h2>
+<h3 align="center">I am an avid Linux enthusiast and hobby developer from The United Kingdom 🇬🇧</h3>
 
+After having found a deep passion for Linux and all kinds of FOSS projects, I'm now active as:
 
-## <img width="26px" src="https://emoji.gg/assets/emoji/8702_mewtwo.png"> Hola!
+- Maintainer of [inertia](htps://inertia-unblocker.vercel.app), an open-source web proxy based on various proxies by Titanium Network Dev. It can be used to bypass web filtering and online censorship. It allows the switching of several proxies, a custom frontend, quality of life changes and external & internal proxy support.
 
-i make websites...
-
-### My Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-
-<br /><br />
-
-![Profile Views](https://komarev.com/ghpvc/?username=doomcow500&color=brightgreen)
-![](https://hit.yhype.me/github/profile?user_id=74429751)
-![Gmail Badge](https://img.shields.io/badge/-doomcow500-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:doomcow500@gmail.com)
-![Website Badge](https://img.shields.io/badge/-doomcow500.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://doomcow500.github.io)
+<h3 align="center">I'm already working with and learning the following technologies:</h3>
+<p align="center">
+	<img 
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Antu_distributor-logo-archlinux.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-plain-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>          
+          
 </p>
+
+<h3 align="center">And finally, here some fancy GitHub statistics 💫</h3>
+<p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=doomcow500&theme=dracula&row=1) </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=doomcow500&label=Profile%20views&color=0e75b6&style=flat" alt="doomcow500" /> </p>
