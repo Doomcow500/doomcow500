@@ -4,6 +4,7 @@
 After having found a deep passion for Linux and all kinds of FOSS projects, I'm now active as:
 
 - Maintainer of [inertia](htps://inertia-unblocker.vercel.app), an open-source web proxy based on various proxies by Titanium Network Dev. It can be used to bypass web filtering and online censorship. It allows the switching of several proxies, a custom frontend, quality of life changes and external & internal proxy support.
+- Maintainer of other projects that I have made...
 
 <h3 align="center">I'm already working with and learning the following technologies:</h3>
 <p align="center">
