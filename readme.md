@@ -30,4 +30,3 @@ After having found a deep passion for Linux and all kinds of FOSS projects, I'm 
 
 <h3 align="center">And finally, here some fancy GitHub statistics 💫</h3>
 <p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=doomcow500&theme=dracula&row=1) </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=doomcow500&label=Profile%20views&color=0e75b6&style=flat" alt="doomcow500" /> </p>
